@@ -1,0 +1,24 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "name" : "Lee Jye Yi",
+      "decs" : "Tall"
+     },
+     {
+       "id": 2,
+       "name" : "Png Hui Siang",
+       "decs" : "HAHAH"
+      },
+      {
+        "id": 3,
+        "name" : "Hong Xin Yin",
+        "decs" : "White"
+      },
+      {
+        "id": 4,
+        "name" : "Pang Ming Wen",
+        "decs" : "Fat"
+      }
+   ]
+ }
